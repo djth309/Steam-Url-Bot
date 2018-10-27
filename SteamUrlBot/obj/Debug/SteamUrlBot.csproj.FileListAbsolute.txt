@@ -1,0 +1,7 @@
+C:\Users\Laxai\source\repos\SteamUrlBot\SteamUrlBot\bin\Debug\SteamUrlBot.exe.config
+C:\Users\Laxai\source\repos\SteamUrlBot\SteamUrlBot\bin\Debug\SteamUrlBot.exe
+C:\Users\Laxai\source\repos\SteamUrlBot\SteamUrlBot\bin\Debug\SteamUrlBot.pdb
+C:\Users\Laxai\source\repos\SteamUrlBot\SteamUrlBot\obj\Debug\SteamUrlBot.csprojAssemblyReference.cache
+C:\Users\Laxai\source\repos\SteamUrlBot\SteamUrlBot\obj\Debug\SteamUrlBot.csproj.CoreCompileInputs.cache
+C:\Users\Laxai\source\repos\SteamUrlBot\SteamUrlBot\obj\Debug\SteamUrlBot.exe
+C:\Users\Laxai\source\repos\SteamUrlBot\SteamUrlBot\obj\Debug\SteamUrlBot.pdb
